@@ -2,7 +2,7 @@
  Serie de comedia
 # De que trata la serie
 Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de bromas internas que necesitas conocer estés en el capítulo que estés y con personajes protagonistas fuertes. es una serie de televisión estadounidense de humor ambientada en una oficina regional de venta de papel radicada en la localidad de Scranton, en Pensilvania (Estados Unidos). Adaptada a partir de la serie británica del mismo nombre, se estrenó en la cadena de televisión estadounidense National Broadcasting Company (NBC) el 24 de marzo de 2005. Ha ganado los premios Primetime Emmy​ y Peabody.​ Aunque se trata de una obra de ficción, la grabación adopta el formato de falso documental, en el sentido de que los actores a veces miran a cámara e, incluso, se dirigen directamente a ella comentando algunas escenas.:clown_face:
-![Serie](imagen01.jpg)
+![Temp1](https://flxt.tmsimg.com/assets/p185008_b_h10_ai.jpg).
 # Porque me gusta la serie
 + Los personajes:rofl:
 + El guión de comedia es muy gracioso.
@@ -26,5 +26,5 @@ Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de br
   - me hubiera gustado ver la miniserie de Dwigth.
 - La michael scott paper company.
   - Demostro que michael era un gran vendedor.
-![Temporada](imagen02.jpg)
+![Temporada](https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CQBIOWSLBVBVXF2X3XHKAALQTQ.png).
 # Enlace para ver la serie en netflix [Aqui](https://www.netflix.com/gt/title/70136120).
