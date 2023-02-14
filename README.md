@@ -2,7 +2,7 @@
  Serie de comedia
 # De que trata la serie
 Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de bromas internas que necesitas conocer estés en el capítulo que estés y con personajes protagonistas fuertes. es una serie de televisión estadounidense de humor ambientada en una oficina regional de venta de papel radicada en la localidad de Scranton, en Pensilvania (Estados Unidos). Adaptada a partir de la serie británica del mismo nombre, se estrenó en la cadena de televisión estadounidense National Broadcasting Company (NBC) el 24 de marzo de 2005. Ha ganado los premios Primetime Emmy​ y Peabody.​ Aunque se trata de una obra de ficción, la grabación adopta el formato de falso documental, en el sentido de que los actores a veces miran a cámara e, incluso, se dirigen directamente a ella comentando algunas escenas.:clown_face:
-![Serie](https://www.imdb.com/title/tt0386676/mediaviewer/rm2849806081/?ref_=tt_ov_i)
+![Serie](imagen01.jpg)
 # Porque me gusta la serie
 + Los personajes:rofl:
 + El guión de comedia es muy gracioso.
@@ -15,7 +15,7 @@ Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de br
 + El personaje más extraño Dwigth. :exploding_head:
 + Michael Scott siendo el mejor jefe que he visto. :star_struck:
 
-1. Escenas que no olvidaré
+## 1. Escenas que no olvidaré
 - El incendio.
   - El hecho que no reanimaran al muñeco y el dialogo es muy bueno. 
 - Los primeros dundies.
@@ -26,5 +26,5 @@ Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de br
   - me hubiera gustado ver la miniserie de Dwigth.
 - La michael scott paper company.
   - Demostro que michael era un gran vendedor.
-![Temporada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Fthe_office&psig=AOvVaw19IOxZLpxwafkE9A0OwdkK&ust=1676474338775000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDChuOnlf0CFQAAAAAdAAAAABAD)
-# Enlace para ver la serie [Aqui](https://www.netflix.com/gt/title/70136120).
+![Temporada](imagen02.jpg)
+# Enlace para ver la serie en netflix [Aqui](https://www.netflix.com/gt/title/70136120).
