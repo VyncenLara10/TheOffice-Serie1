@@ -26,5 +26,5 @@ Quizá junto a Scrubs, porque tienen el mismo tipo de humor: algo absurdo, de br
   - me hubiera gustado ver la miniserie de Dwigth.
 - La michael scott paper company.
   - Demostro que michael era un gran vendedor.
-![Temporada](https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CQBIOWSLBVBVXF2X3XHKAALQTQ.png).
+![Temporada](https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CQBIOWSLBVBVXF2X3XHKAALQTQ.png)
 # Enlace para ver la serie en netflix [Aqui](https://www.netflix.com/gt/title/70136120).
